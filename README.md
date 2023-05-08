@@ -44,6 +44,23 @@ ComputeGPT is publicly available at no cost and can solve most textbook problems
 
 Download, chat, and compute any answer!
 
+## Evaluation
+
+We provide an evaluation and comparison of ComputeGPT on numerical problems against GPT-4 with Internet (Bing AI), GPT-3.5 (ChatGPT), GPT-3 (Davinci-003), and Wolfram Alpha Natural Language. See the full evaluation at https://github.com/ryanhlewis/ComputeGPTEval.
+
+<div align="center">
+
+| Model           | ComputeGPT | Wolfram Alpha | Davinci-003 | ChatGPT | GPT-4  |
+|-----------------|------------|---------------|-------------|---------|--------|
+| Overall Accuracy (%)     | **98%**    | 56%          | 28%        | 48%     | 64%    |
+| Word Problems (%)  | **95%**    | 15%          | 35%        | 50%     | 65%    |
+| Straightforward (%) | **100%**   | 83.3%        | 23.3%      | 46.6%   | 63.3%  |
+
+</div>
+
+Overall, ComputeGPT demonstrates state-of-the-art performance on numerical problems when compared against other models, on both straightforward problems
+and word problems that require more reasoning. 
+  
 
 ### Limitations
 
