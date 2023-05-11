@@ -80,7 +80,18 @@ Together, we can make a better computational GPT model.
 
 Alternatively, if you have a private request, please email me at [rhl@utexas.edu](mailto:rhl@utexas.edu).
 
+## Reference
 
+ComputeGPT: A computational chat model for numerical problems -- https://arxiv.org/abs/2305.06223
+
+```
+@article{lewis2023computegpt,
+      title={ComputeGPT: A computational chat model for numerical problems}, 
+      author={Ryan Hardesty Lewis and Junfeng Jiao},
+      journal={arXiv preprint arXiv:2305.06223},
+      year={2023},
+}
+```
 
 
 
